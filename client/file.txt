@@ -1,0 +1,3 @@
+this a text file
+send to server
+hi server
